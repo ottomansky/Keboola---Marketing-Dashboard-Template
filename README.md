@@ -39,3 +39,22 @@ Tento repozitář obsahuje návod k propojení dat ze Shoptetu do šablony v Keb
 
 - Snímek pro kroky 1–3: 1.png
 - Pokud používáte jiné názvy či cesty, upravte je v tomto README.
+
+## Kontrola výsledku
+
+Po spuštění šablony v Keboole:
+
+- Zkontrolujte, že poslední běh (Run) proběhl úspěšně.
+- Ověřte, že se data z Shoptetu načetla (např. počet objednávek za posledních 7 dní).
+- Otevřete marketingový dashboard a ověřte načtení metrik.
+
+## Odkazy
+
+- Dokumentace Shoptet – export objednávek: [shoptet.cz – nápověda](https://www.shoptet.cz/napoveda/)  
+- Keboola – Templates: [keboola.com](https://www.keboola.com)
+
+## Řešení problémů
+
+- Exportní URL vrací 403/404: ověřte přihlášení a práva v Shoptetu, případně vygenerujte novou URL.
+- Prázdný CSV export: zkontrolujte filtr období a stav objednávek.
+- Chybí oprávnění v GA/Meta: požádejte administrátora o roli s přístupem ke čtení.
