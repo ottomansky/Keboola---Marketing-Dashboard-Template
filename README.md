@@ -4,27 +4,33 @@
 
 Tento repozitář obsahuje návod k propojení dat ze Shoptetu do šablony v Keboola a následnému zobrazení v marketingovém dashboardu.
 
+## Rychlý start
+
+1. V Shoptetu otevřete Objednávky → Export a zvolte „Shoptet – CSV“, poté zkopírujte exportní URL.
+2. V Keboole v sekci Templates vyberte šablonu „Marketing dashboard“.
+3. Přihlaste se do Google Analytics a Facebook Ads (Meta Ads).
+4. Vložte Shoptet exportní URL a URL vašeho obchodu, potvrďte vytvoření.
+
 ## Předpoklady
 
 - Přístup do administrace Shoptet
-- Účet v Keboola s oprávněním používat Templates
 - Přístup do Google Analytics a Facebook Ads (Meta Ads)
 
-## Krok 1: Získání exportní URL v Shoptetu
+## Shoptet: získání exportní URL
 
 1. Přihlaste se do administrace Shoptet.
 2. V levém menu otevřete Objednávky → Export.
 3. V části Systémové zvolte Shoptet – CSV.
 
-<img src="docs/images/1.png" alt="Snímek obrazovky – výběr Shoptet CSV" width="960" height="540" />
+<p align="center"><img src="guide/1.png" alt="Snímek obrazovky – výběr Shoptet CSV" width="960" height="540" /></p>
 
 4. Přejděte na konec stránky a zkopírujte vygenerovanou URL adresu exportu.
 
-<img src="docs/images/2.png" alt="Snímek obrazovky – exportní URL" width="960" height="540" />
+<p align="center"><img src="guide/2.png" alt="Snímek obrazovky – exportní URL" width="960" height="540" /></p>
 
-## Krok 2: Nasazení šablony v Keboola
+## Keboola: nasazení šablony
 
-1. V Keboole přejděte do sekce Templates a vyberte příslušnou šablonu.
+1. V Keboole přejděte do sekce Templates a vyberte příslušnou šablonu. (Marketing dashboard)
 2. Při vyplňování parametrů se přihlaste do svého účtu Google Analytics a Facebook Ads.
 3. Vložte zkopírovanou Shoptet URL a URL vašeho obchodu.
 4. Potvrďte vytvoření a vyčkejte na dokončení zpracování.
