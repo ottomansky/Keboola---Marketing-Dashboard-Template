@@ -2,9 +2,16 @@
 
 ## Návod
 
-Přihlaste se do Shoptetu a vyberte Objednávky → Export.
+Přihlaste se do Shoptetu.
 
-![Tady bude ten picture](docs/images/objednavky-export.png)
+1. Klikněte na Objednávky
+2. Klikněte na Export
+3. Vyberte: systémový: Shoptet – CSV
 
-- Pokud obrázek ještě není k dispozici, umístěte jej do `docs/images/objednavky-export.png`.
-- Alternativně můžete změnit cestu v tomto README podle skutečného názvu souboru.
+![Obrázek krok 3](1.png)
+
+4. Scrollujte dolů a zkopírujte URL adresu
+
+5. V Keboola v sekci Templates vyberte template.
+   Pro vyplnění template se přihlaste do vašeho Google Analytics účtu,
+   Facebook Ads a zadejte Shoptet URL, kterou jste zkopírovali, a URL vašeho obchodu.
