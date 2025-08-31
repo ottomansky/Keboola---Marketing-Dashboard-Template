@@ -20,6 +20,9 @@ Tento repozitář obsahuje návod k propojení dat ze Shoptetu do šablony v Keb
 
 4. Přejděte na konec stránky a zkopírujte vygenerovanou URL adresu exportu.
 
+![Snímek obrazovky – exportní URL](2.png)
+
+
 ## Krok 2: Nasazení šablony v Keboola
 
 1. V Keboole přejděte do sekce Templates a vyberte příslušnou šablonu.
