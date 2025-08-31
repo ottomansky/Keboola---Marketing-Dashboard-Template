@@ -16,12 +16,10 @@ Tento repozitář obsahuje návod k propojení dat ze Shoptetu do šablony v Keb
 2. V levém menu otevřete Objednávky → Export.
 3. V části Systémové zvolte Shoptet – CSV.
 
-![Snímek obrazovky – výběr Shoptet CSV](1.png)
+<img src="1.png" alt="Snímek obrazovky – výběr Shoptet CSV" width="244" />
 
 4. Přejděte na konec stránky a zkopírujte vygenerovanou URL adresu exportu.
-
-![Snímek obrazovky – exportní URL](2.png)
-
+<img src="2.png" alt="Snímek obrazovky – exportní URL" width="244" />
 
 ## Krok 2: Nasazení šablony v Keboola
 
