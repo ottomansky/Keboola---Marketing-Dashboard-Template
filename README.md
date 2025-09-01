@@ -41,11 +41,6 @@ Po spuštění šablony v Keboole:
 - Ověřte, že se data z Shoptetu načetla (např. počet objednávek za posledních 7 dní).
 - Otevřete marketingový dashboard a ověřte načtení metrik.
 
-## Odkazy
-
-- Dokumentace Shoptet – export objednávek: [shoptet.cz – nápověda](https://www.shoptet.cz/napoveda/)  
-- Keboola – Templates: [keboola.com](https://www.keboola.com)
-
 ## Řešení problémů
 
 - Exportní URL vrací 403/404: ověřte přihlášení a práva v Shoptetu, případně vygenerujte novou URL.
