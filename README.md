@@ -10,22 +10,33 @@ Tento repozitář obsahuje návod k propojení dat ze Shoptetu do šablony v Keb
 - Přístup do Google Analytics a Facebook Ads (Meta Ads)
 
 ## Shoptet: získání exportní URL
-
-1. Přihlaste se do administrace Shoptet.
-2. V levém menu otevřete Objednávky → Export.
-3. V části Systémové zvolte Shoptet – CSV.
+Přihlaste se do administrace Shoptet.
+1. V levém menu otevřete Objednávky
+2. Export
+3. V části s volbou export zvolte Systémové - Shoptet – CSV.
 
 <p align="center"><img src="guide/1.png" alt="Snímek obrazovky – výběr Shoptet CSV" width="960" height="540" /></p>
 
-4. Přejděte na konec stránky a zkopírujte vygenerovanou URL adresu exportu.
+4. Na konci stránky zkopírujte vygenerovanou URL exportu.
 
 <p align="center"><img src="guide/2.png" alt="Snímek obrazovky – exportní URL" width="960" height="540" /></p>
+
+5. V levém menu otevřete Produkty
+6. Export
+6. V části s volbou exportu zvolte Systémové - Hlavní ceník.
+7. Vyberte formát CSV.
+
+<p align="center"><img src="guide/3.png" alt="Snímek obrazovky – Export produktů: Hlavní ceník" width="960" height="540" /></p>
+
+8. Zkopírujte URL exportu.
+
+<p align="center"><img src="guide/4.png" alt="Snímek obrazovky – URL exportu produktů" width="960" height="540" /></p>
 
 ## Keboola: nasazení šablony
 
 1. V Keboole přejděte do sekce Templates a vyberte příslušnou šablonu. (Marketing dashboard)
 2. Při vyplňování parametrů se přihlaste do svého účtu Google Analytics a Facebook Ads.
-3. Vložte zkopírovanou Shoptet URL a URL vašeho obchodu.
+3. Vložte zkopírované Shoptet URL a URL vašeho obchodu.
 4. Potvrďte vytvoření a vyčkejte na dokončení zpracování.
 
 ## Poznámky
