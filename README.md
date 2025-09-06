@@ -1,8 +1,10 @@
-# Marketing Dashboard Template
+# Shoptet Ads & Sales Dashboard
 
 ## Popis
 
-Tento repozitář obsahuje návod k propojení dat ze Shoptetu do šablony v Keboola a následnému zobrazení v marketingovém dashboardu.
+Tento repozitář obsahuje návod k propojení dat ze Shoptetu do šablony v Keboola a k následnému zobrazení v dashboardu „Shoptet Ads & Sales Dashboard“.
+
+- Zdroj aplikace/dashboards: `app.py` (hlavní soubor s logikou a UI)
 
 ## Předpoklady
 
@@ -11,9 +13,9 @@ Tento repozitář obsahuje návod k propojení dat ze Shoptetu do šablony v Keb
 
 ## Shoptet: získání exportní URL
 Přihlaste se do administrace Shoptet.
-1. V levém menu otevřete Objednávky
-2. Export
-3. V části s volbou export zvolte Systémové - Shoptet – CSV.
+1. V levém menu otevřete Objednávky.
+2. Klikněte na Export.
+3. V seznamu vyberte Systémové → Shoptet – CSV.
 
 <p align="center"><img src="guide/1.png" alt="Snímek obrazovky – výběr Shoptet CSV" width="960" height="540" /></p>
 
@@ -21,20 +23,22 @@ Přihlaste se do administrace Shoptet.
 
 <p align="center"><img src="guide/2.png" alt="Snímek obrazovky – exportní URL" width="960" height="540" /></p>
 
-5. V levém menu otevřete Produkty
-6. Export
-6. V části s volbou exportu zvolte Systémové - Hlavní ceník.
-7. Vyberte formát CSV.
+5. V levém menu otevřete Produkty.
+6. Klikněte na Export.
+7. V seznamu vyberte Systémové → Hlavní ceník.
+8. Zvolte formát CSV.
 
 <p align="center"><img src="guide/3.png" alt="Snímek obrazovky – Export produktů: Hlavní ceník" width="960" height="540" /></p>
 
-8. Zkopírujte URL exportu.
+9. Zkopírujte URL exportu.
 
 <p align="center"><img src="guide/4.png" alt="Snímek obrazovky – URL exportu produktů" width="960" height="540" /></p>
 
 ## Keboola: nasazení šablony
 
-1. V Keboole přejděte do sekce Templates a vyberte příslušnou šablonu. (Marketing dashboard)
+Video průvodce: TBD
+
+1. V Keboole přejděte do sekce Templates a vyberte šablonu „Shoptet Ads & Sales Dashboard“.
 2. Při vyplňování parametrů se přihlaste do svého účtu Google Analytics a Facebook Ads.
 3. Vložte zkopírované Shoptet URL a URL vašeho obchodu.
 4. Potvrďte vytvoření a vyčkejte na dokončení zpracování.
