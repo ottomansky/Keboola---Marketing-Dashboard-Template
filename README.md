@@ -26,10 +26,10 @@ Přihlaste se do administrace Shoptet.
 5. V levém menu otevřete Produkty.
 6. Klikněte na Export.
 7. V seznamu vyberte Systémové → Hlavní ceník.
-8. Zvolte formát CSV.
 
 <p align="center"><img src="guide/3.png" alt="Snímek obrazovky – Export produktů: Hlavní ceník" width="960" height="540" /></p>
 
+8. Zvolte formát CSV.
 9. Zkopírujte URL exportu.
 
 <p align="center"><img src="guide/4.png" alt="Snímek obrazovky – URL exportu produktů" width="960" height="540" /></p>
@@ -42,11 +42,6 @@ Video průvodce: TBD
 2. Při vyplňování parametrů se přihlaste do svého účtu Google Analytics a Facebook Ads.
 3. Vložte zkopírované Shoptet URL a URL vašeho obchodu.
 4. Potvrďte vytvoření a vyčkejte na dokončení zpracování.
-
-## Poznámky
-
-- Snímek pro kroky 1–3: 1.png
-- Pokud používáte jiné názvy či cesty, upravte je v tomto README.
 
 ## Kontrola výsledku
 
